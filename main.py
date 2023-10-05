@@ -1,9 +1,10 @@
 from MBTI_list import *
 from rand_num import *
+from hello import say_hello
 
 score=dict()
 
-# say_hello()
+say_hello()
 #적으면 0, 
 #for g in arr_list['I']:
 #    print(mbti['I'][rand_nums['0']])
